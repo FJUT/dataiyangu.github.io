@@ -86,7 +86,7 @@ deploy:
   repo:
 #  https://gitee.com/dataiyangu/dataiyangu.git
    github: git@github.com:dataiyangu/dataiyangu.github.io.git
-   coding: https://git.dev.tencent.com/dataiyangu/dataiyangu.git
+   coding: git@git.dev.tencent.com:dataiyangu/dataiyangu.git
   branch: master
 
 
