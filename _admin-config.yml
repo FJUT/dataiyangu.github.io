@@ -1,7 +1,9 @@
 options:
-  lineNumbers: true
-  spellcheck: true
+  lineNumbers: false
+  spellcheck: false
+  askImageFilename: false
+  imagePrefix: my_blog_
 editor:
-  lineNumbers: true
+  lineNumbers: false
   inputStyle: contenteditable
-  spellcheck: true
+  spellcheck: false

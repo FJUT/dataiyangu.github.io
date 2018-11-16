@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blues's Blog
+title: Leesin's Blog
 subtitle: To be a better me
 description: To be a better me
 keywords: 
-author: Blues.Dong
+author: Leesin.Dong
 language: zh-Hans
 timezone:
 
@@ -19,7 +19,8 @@ url: http://mmmmmm.me
 #   http://dataiyangu.github.io
 #  gitee:https://dataiyangu.gitee.iohe
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: :title.html
 permalink_defaults:
 
 # Directory

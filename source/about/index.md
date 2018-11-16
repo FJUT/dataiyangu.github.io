@@ -1,5 +1,5 @@
 ---
-title: 关于blues
+title: about Leesin Dong
 date: 2018-09-30 17:04:15
 comments: false
 type: "about"
@@ -38,14 +38,14 @@ background: #fff;padding: 25px;margin-bottom: 100px;">
 		
 
 
-> 邮箱: 32248827@qq.com
-> QQ: 32248827
-> 微信: maobao32248827
-> 微博: 不怎么玩就不放这里了。
-> github: https://github.com/dataiyangu
-> csdn: https://blog.csdn.net/dataiyangu
-> 抖音: Dongxueyuan
-> fb: https://www.facebook.com/leesin.dong.923
+>* 邮箱: 32248827@qq.com
+>* QQ: 32248827
+>* 微信: maobao32248827
+>* 微博: 不怎么玩就不放这里了。
+>* github: https://github.com/dataiyangu
+>* csdn: https://blog.csdn.net/dataiyangu
+>* 抖音: Dongxueyuan
+>* fb: https://www.facebook.com/leesin.dong.923
 
 
 </div>
