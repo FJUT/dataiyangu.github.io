@@ -1,6 +1,5 @@
 title: 不蒜子域名更改，导致博客访问人数失效。
 author: Leesin.Dong
-date: 2018-11-02 11:25:05
 top: 9999996
 tags:
   - hexo
@@ -8,9 +7,10 @@ tags:
 categories:
   - 自建博客
   - hexo
-
+date: 2018-11-02 11:25:05
 ---
-![upload successful](/images/my_blog_59.png)
+![](/images/15440658156542.jpg)
+
 >接下来这段话是我从不蒜子的官网上面拷贝过来的，旨在告诉大家，不蒜子原来的域名过期了，并不是不能用了，修改域名即可，传播下去，告诉更多的人吧，最后感谢不蒜子。
 
 <!--more-->
@@ -171,3 +171,4 @@ next主题在这里themes\\next\\layout\\_third-party\\analytics\\busuanzi-count
 请先注册登录，自行修改阅读次数。
 
 有任何其他问题或疑问可以留言。
+

@@ -1,11 +1,12 @@
 title: split("\\s+") 和 split(" +") 有什么区别?
 author: Leesin.Dong
 tags:
-  - interview
   - java
+  - interview
 categories:
   - java
-  - Java基础
+  - java基础
+  - ''
 date: 2018-11-12 11:37:00
 ---
 原文地址：https://blog.csdn.net/it_taojingzhan/article/details/51968993

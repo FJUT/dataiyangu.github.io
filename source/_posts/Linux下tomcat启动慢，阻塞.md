@@ -3,9 +3,9 @@ author: Leesin.Dong
 tags:
   - linux
   - tomcat
-  - ''
 categories:
   - linux
+  - linux命令
 date: 2018-11-11 23:40:00
 ---
 声明：本文为转载，请尊重版权，原文地址：

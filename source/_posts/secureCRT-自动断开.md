@@ -4,6 +4,7 @@ tags:
   - linux
 categories:
   - linux
+  - linux命令
 date: 2018-11-11 23:42:00
 ---
 设置

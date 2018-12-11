@@ -1,13 +1,17 @@
 title: 关于docker create start run
 author: Leesin.Dong
+top: 9999992
 tags:
   - docker
-  - ''
 categories:
   - 基础亦是进阶
   - docker
 date: 2018-11-12 00:12:00
 ---
+![](/images/15440640487814.jpg)
+>关于docker create start run的一点小问题。
+<!--more-->
+
 初次接触docker，从最基础的开始学习，
 
 docker run = docker create +docker start
@@ -58,3 +62,4 @@ sudo docker run -d ubuntu:14.04 /bin/sh -c "while true;do echo hello world ; sle
 来源：CSDN 
 原文：https://blog.csdn.net/dataiyangu/article/details/82429691 
 版权声明：本文为博主原创文章，转载请附上博文链接！
+

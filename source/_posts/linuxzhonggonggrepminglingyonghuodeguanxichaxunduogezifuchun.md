@@ -4,6 +4,8 @@ tags:
   - linux
 categories:
   - linux
+  - linux命令
+  - bbb
 date: 2018-11-11 10:14:00
 ---
 请尊重版权：原文：https://blog.csdn.net/lkforce/article/details/52862193 

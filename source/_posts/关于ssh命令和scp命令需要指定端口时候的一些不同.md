@@ -4,6 +4,8 @@ tags:
   - linux
 categories:
   - linux
+  - linux命令
+  - aaa
 date: 2018-11-11 23:45:00
 ---
 scp -P 333 root@10.0.**:~/**

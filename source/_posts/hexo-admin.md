@@ -8,8 +8,8 @@ categories:
   - hexo
 date: 2018-11-02 11:09:57
 ---
+![](/images/15440641393722.jpg)
 
-<img src="/images/blog_header1.jpg"  width=100%/>
 >相信我这是文章将指引你发布最快最好的hexo博文～
 
 <!--more-->
@@ -69,3 +69,4 @@ commad后续操作：
 ### (node:10338) \[DEP0061\] DeprecationWarning: fs.SyncWriteStream is deprecated.![](https://img-blog.csdn.net/20181015233452475?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RhdGFpeWFuZ3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ### hexo clean的时候会多一条警告，如上图，对程序不会有影响，原因是node.js版本的问题，对某些语句不支持，不是强迫症的可以不用管，强迫症的可以通过hexo --debug，对错误追踪，然后 mpn uninstall xxxx  --save卸载掉。
+

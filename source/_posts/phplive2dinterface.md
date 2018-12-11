@@ -7,10 +7,10 @@ tags:
 categories:
   - 自建博客
   - hexo
-
 date: 2018-11-02 11:30:00
 ---
-![upload successful](/images/my_blog_61.png)
+![](/images/15440657994566.jpg)
+
 >本文是为了完善我的看板娘功能，因为这里涉及到自己服务器的接口引用问题，所以单独拿出来作为一篇文章～
 
 <!--more-->
@@ -77,3 +77,4 @@ date: 2018-11-02 11:30:00
 总结一句话：  “正则 location 匹配让步普通 location 的严格精确匹配结果；但覆盖普通 location 的最大前缀匹配结果”
 
 2.不能在nginx.conf中修改，因为nginx.conf会有个默认的server，他并不是我们配置的网站的php       server
+

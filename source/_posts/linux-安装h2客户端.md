@@ -2,10 +2,11 @@ title: linux 安装h2客户端
 author: Leesin.Dong
 tags:
   - linux
-  - h2
   - 数据库
+  - h2
 categories:
   - linux
+  - linux命令
 date: 2018-11-11 23:43:00
 ---
 1，下载jar包

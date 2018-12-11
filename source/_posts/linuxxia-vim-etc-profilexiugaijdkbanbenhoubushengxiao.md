@@ -7,6 +7,7 @@ tags:
   - 终端
 categories:
   - linux
+  - linux命令
 date: 2018-11-09 13:38:00
 ---
 当然不是因为没有 source /etc/profile

@@ -6,6 +6,7 @@ tags:
   - ''
 categories:
   - linux
+  - linux命令
 date: 2018-11-11 22:35:00
 ---
 版权声明：本文为作者原创，转载请注明出处，联系qq：32248827 https://blog.csdn.net/dataiyangu/article/details/82743939
