@@ -8,7 +8,7 @@ subtitle: To be a better me
 description: To be a better me
 keywords: 
 author: Leesin.Dong
-language: zh-Hans
+language: en
 timezone:
 
 # URL
@@ -86,8 +86,8 @@ deploy:
   type: git
   repo:
 #  https://gitee.com/dataiyangu/dataiyangu.git
-#   github: git@github.com:dataiyangu/dataiyangu.github.io.git
-   github: https://github.com/dataiyangu/dataiyangu.github.io.git
+   github: git@github.com:dataiyangu/dataiyangu.github.io.git
+#   github: https://github.com/dataiyangu/dataiyangu.github.io.git
 #   coding: git@git.dev.tencent.com:dataiyangu/dataiyangu.git
    coding: https://git.dev.tencent.com/dataiyangu/dataiyangu.git
   branch: master
@@ -149,6 +149,8 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+#自定义版权
+copyright_my: true
 
 # hexo-neat
 # 博文压缩
@@ -175,6 +177,6 @@ neat_js:
     - '**/love.js'
     - '**/comments.gitalk.js'
     - '**/jquery_pjax_min_js.js'
-
+    - '**/aplayer.js'
 
 
